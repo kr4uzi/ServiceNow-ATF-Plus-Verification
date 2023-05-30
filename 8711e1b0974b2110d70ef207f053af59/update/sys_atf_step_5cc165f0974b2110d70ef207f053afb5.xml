@@ -2,25 +2,25 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <copied_from/>
-        <description>Set the Value of 'Dummy List' to 'c73dd3e897032110d70ef207f053af34'</description>
-        <display_name>ATF+ Set List Collector Variable Value</display_name>
+        <description>Set the Value of 'dummy_list' to 'Request Item, Table Name'</description>
+        <display_name>Set List Collector Variable Value (ATF+)</display_name>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
         <order>3</order>
-        <step_config display_value="ATF+ Set List Collector Variable Value">0e0cdf6897032110d70ef207f053af12</step_config>
+        <step_config display_value="Set List Collector Variable Value (ATF+)">0e0cdf6897032110d70ef207f053af12</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-24 06:17:22</sys_created_on>
         <sys_id>5cc165f0974b2110d70ef207f053afb5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>ATF+ Set List Collector Variable Value</sys_name>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Set List Collector Variable Value (ATF+)</sys_name>
         <sys_package display_value="ATF+ Verification" source="x_424426_atf_verif">8711e1b0974b2110d70ef207f053af59</sys_package>
         <sys_policy/>
         <sys_scope display_value="ATF+ Verification">8711e1b0974b2110d70ef207f053af59</sys_scope>
         <sys_update_name>sys_atf_step_5cc165f0974b2110d70ef207f053afb5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-24 06:17:22</sys_updated_on>
+        <sys_updated_on>2023-05-30 18:00:33</sys_updated_on>
         <table/>
         <test display_value="ATF+ List Collector">ff21e9b0974b2110d70ef207f053afcc</test>
         <timeout/>
@@ -63,10 +63,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-24 06:17:22</sys_created_on>
         <sys_id>c402e9f0974b2110d70ef207f053af1d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-24 06:17:22</sys_updated_on>
-        <value>c73dd3e897032110d70ef207f053af34</value>
+        <sys_updated_on>2023-05-30 18:00:33</sys_updated_on>
+        <value>558d91ca1b9621107eb06464604bcbdc,198dd1ca1b9621107eb06464604bcb46</value>
         <variable display_value="Value">a4fedb2c97032110d70ef207f053afb4</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_0e0cdf6897032110d70ef207f053af12^id=5cc165f0974b2110d70ef207f053afb5"/>
